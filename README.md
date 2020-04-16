@@ -1,2 +1,2 @@
 # Powershell-math
-Math equations form precal from powershell
+Math equations from precal to powershell
