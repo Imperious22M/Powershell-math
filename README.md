@@ -1,2 +1,2 @@
 # Powershell-math
-Math equations from precal to powershell
+Parabola and Directrix functions
